@@ -16,6 +16,7 @@
     "sprintf-js": "^1.0.3"
   },
   "devDependencies": {
+    "jasmine": "^2.5.0",
     "jsdoc": "^3.4.0"
   },
   "bugs": {
