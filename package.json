@@ -1,6 +1,6 @@
 {
   "name": "@lohsy84/common-utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Common Utilities",
   "main": "index.js",
   "scripts": {
@@ -10,14 +10,14 @@
   "author": "Samuel Loh Yin Kang <samuel.loh.yk@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^3.4.1",
-    "lodash": "^4.14.1",
-    "moment": "^2.14.1",
+    "bluebird": "^3.4.6",
+    "lodash": "^4.16.2",
+    "moment": "^2.15.1",
     "sprintf-js": "^1.0.3"
   },
   "devDependencies": {
-    "jasmine": "^2.5.0",
-    "jsdoc": "^3.4.0"
+    "jasmine": "^2.5.2",
+    "jsdoc": "^3.4.1"
   },
   "bugs": {
     "url": "https://github.com/samloh84/node-common-utils/issues",
