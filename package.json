@@ -1,6 +1,6 @@
 {
   "name": "@lohsy84/common-utils",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Common Utilities",
   "main": "index.js",
   "scripts": {
